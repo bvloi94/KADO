@@ -47,6 +47,8 @@ public class KadoActivity extends Activity
                 (DrawerLayout) findViewById(R.id.drawer_layout));
     }
 
+    //just a test
+
     @Override
     public void onNavigationDrawerItemSelected(int position) {
         // update the main content by replacing fragments
